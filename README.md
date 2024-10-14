@@ -1,4 +1,4 @@
-Be Sure to Installe all this Tools:
+Be Sure to Installe all this Dependencies:
 
 1/ pip install tensorflow
 
